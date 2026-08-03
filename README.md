@@ -1,29 +1,37 @@
-# Hi, I'm Van Nguyen 👋
+# Hi, I'm Van Nguyen
 
-* Data Science student at the University of Texas at Dallas  
-* Focused on Machine Learning, Data Analysis, and Statistical Modeling  
+Data Science student at the University of Texas at Dallas, graduating in December 2026.
+
+I use Python, SQL, statistics, and machine learning to turn raw data into clear analysis and practical business decisions. I am interested in Data Analyst, Business Intelligence, Business Analyst, and entry-level Data Science roles.
+
+U.S. permanent resident with unrestricted work authorization.
 
 ## Skills
-- Python, R, SQL  
-- Data Cleaning, EDA, Regression, Model Evaluation  
+
+- Python, SQL, R
+- pandas, NumPy, scikit-learn, matplotlib
+- Data cleaning, exploratory data analysis, and feature engineering
+- Regression, classification, cross-validation, and model evaluation
+- Power BI, Excel, and data visualization
 
 ## Projects
-- **KNN Bias-Variance Tradeoff**  
-  Built and analyzed a KNN model to understand bias-variance behavior and model performance  
-  https://github.com/jaynguyen2021/knn-bias-variance  
 
-## About
-I work with data to identify patterns, build models, and evaluate results.  
-I enjoy turning raw data into clear insights and improving models through testing and iteration.  
+### Customer Churn Prediction and Retention Policy
 
-Currently strengthening:
-- Model performance and evaluation  
-- Working with real-world datasets  
-- Writing clean, practical code  
+Built an end-to-end churn modeling workflow that includes leakage prevention, preprocessing pipelines, model comparison, probability calibration, threshold selection, model interpretation, and a practical customer-contact policy.
+
+[View project](https://github.com/jaynguyen2021/customer-churn-retention)
+
+### KNN Bias-Variance Tradeoff
+
+Built and evaluated KNN models to study how model complexity affects underfitting, overfitting, and validation performance.
+
+[View project](https://github.com/jaynguyen2021/knn-bias-variance)
+
+## How I Approach Data Work
+
+I focus on understanding the business question, checking data quality, selecting appropriate evaluation metrics, avoiding data leakage, and explaining results clearly to support decisions.
 
 ## Goal
-Seeking a Summer 2026 internship in Data Science or Data Analytics.
 
----
-
-⭐ Exploring how data can drive better decisions.
+Seeking entry-level opportunities in Data Analytics, Business Intelligence, Business Analysis, and Data Science.
