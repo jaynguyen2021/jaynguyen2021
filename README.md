@@ -62,6 +62,4 @@ I try to treat modeling as more than selecting an algorithm. My general workflow
 
 ## Current Focus
 
-I am continuing to strengthen my skills in applied statistics, machine learning, SQL, forecasting, experimentation, and business analytics while preparing for early-career data roles.
-
-I am particularly interested in positions where technical analysis can support forecasting, customer analytics, operations, reporting, or business decision-making.
+I am continuing to strengthen my skills in applied statistics, machine learning, SQL, forecasting, and experimentation while preparing for early-career data roles.
